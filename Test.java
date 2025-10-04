@@ -2,5 +2,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("Hi, ini baris kode pertama");
         System.out.println("Ini baris kode kedua");
+        System.out.println("Ini baris kode ketiga");
     }
 }
