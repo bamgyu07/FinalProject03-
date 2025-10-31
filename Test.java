@@ -3,7 +3,8 @@ public class Test {
         System.out.println("Hi, ini baris kode pertama");
         System.out.println("Ini baris kode kedua");
         System.out.println("Ini baris kode ketiga");
-        System.out.println("ini baris kode keempat")
+        System.out.println("ini baris kode keempat");
         System.out.println("hai alya xixi");
+        System.out.println("halo halo halo");
     }
 }
